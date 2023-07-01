@@ -1,5 +1,4 @@
 ﻿/* Author: Brianna Drew
-Student ID: 0622446
 Description: This is a program that computes the average salary of Canadian workers based on their education type (for Statistics Canada).
 
 Data Dictionary (Variables):
